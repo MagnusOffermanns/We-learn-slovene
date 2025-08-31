@@ -1,0 +1,24 @@
+# --- Hugo ---
+/public/                 # build output (usually don't version)
+/resources/_gen/         # Hugo Pipes generated assets
+.hugo_build.lock         # temporary build lockfile
+hugo_stats.json          # (optional) Tailwind/Purge stats
+
+# Local caches (only if you keep them in-repo)
+.hugo_cache/
+.cache/
+
+
+# --- Env & secrets ---
+.env
+.env.*.local
+
+# --- Editor / IDE ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
