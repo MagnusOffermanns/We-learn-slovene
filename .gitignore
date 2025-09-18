@@ -1,4 +1,5 @@
 # --- Hugo ---
+public/
 /public/                 # build output (usually don't version)
 /resources/_gen/         # Hugo Pipes generated assets
 .hugo_build.lock         # temporary build lockfile
