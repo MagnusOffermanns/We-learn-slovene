@@ -12,3 +12,5 @@ theme = 'relearn'
     path = 'github.com/hugomods/images'
     disable = true
 
+[security]
+  enableInlineShortcodes = true
