@@ -31,6 +31,6 @@ The syntax is:
 Spoiler Shortcode {{< inline-spoiler >}} Dont look at me :){{< /inline-spoiler >}} Visible again.
 ```
 
-source: [http://oostens.me/posts/hugo-inline-spoiler-shortcode/](Nelis Oostens)
+source: [http://oostens.me/posts/hugo-inline-spoiler-shortcode/ ](Nelis Oostens)
 
 
