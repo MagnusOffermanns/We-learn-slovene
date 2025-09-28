@@ -14,6 +14,23 @@ Then the theme has to be initialized into the folder `themes` using the followin
 git submodule add https://github.com/McShelby/hugo-theme-relearn.git themes/relearn
 ```
 
+## Custom shortcodes
+I have created some custom shortcodes that are not part of relearn.
+The files can be found in:
 
+- `assets/css/custom.css`
+- `layout/_shortcodes/inline-spoiler.html`
+
+### Spoiler shortcode
+
+The Spoiler shortcode is used to hide words for Cloze riddles. 
+
+The syntax is:
+
+```markdown
+Spoiler Shortcode {{< inline-spoiler >}} Dont look at me :){{< /inline-spoiler >}} Visible again.
+```
+
+source: [http://oostens.me/posts/hugo-inline-spoiler-shortcode/](Nelis Oostens)
 
 
