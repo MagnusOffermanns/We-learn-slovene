@@ -14,3 +14,7 @@ theme = 'relearn'
 
 [security]
   enableInlineShortcodes = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
