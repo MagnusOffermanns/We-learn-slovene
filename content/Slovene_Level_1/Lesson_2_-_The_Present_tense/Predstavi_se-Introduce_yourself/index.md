@@ -3,7 +3,6 @@ Title: "Predstavi se! Introduce youself"
 weight: 3
 ---
 
-## Summary
 In this chapter we will learn some important basics of the slovene language. First we will look at some grammar, starting with how to form basic verbs in the present tense. We will investigate grammatical numbers where the slovene differs from english. The slovene does not only have the singular, plural but also has the **Dual**. Lastly we will look at the irregular verb `biti` to be.
 
 After the grammar deep dive we will look at how one can introduce oneself in slovene. We will learn frases like:
@@ -16,6 +15,55 @@ After the grammar deep dive we will look at how one can introduce oneself in slo
 And then the next time a nice slovene who tells you: `Predstavi se!` you can introduce yourself.
 
 ## Grammar
+
+### Personal Pronouns
+
+Lets first start with the personal pronouns in slovene. In english we have five in the singular, and three in the plural. In slovene this is slightly more compliacated as the slovenes have the dual. For a full explanation of the dual just look a couple paragraphs on where it is explained fully. The dual adds 3 more personal pronouns which are gendered as is common in slovene. The best is to just handle them like vocabulary and learn them by heart. An overview over slovene personal Pronouns can be found in the following table.
+
+| Person  | Singular                         | Dual                         | Plural               |
+| ------- | -------------------------------- | ---------------------------- | -------------------- |
+| **1st** | jaz (*I*)                        | midva / midve (*we two*)     | mi / me (*we*)       |
+| **2nd** | ti (*you, sg.*)                  | vidva / vidve (*you two*)    | vi / ve (*you, pl.*) |
+| **3rd** | on / ona / ono (*he / she / it*) | onadva / onidve (*they two*) | oni / one (*they*)   |
+
+#### Examples - Personal Pronouns
+
+{{< details summary="Jaz: Jaz sem učitelj." >}}
+I: I am a teacher.
+{{< /details >}}
+
+{{< details summary="Ti: Ti si moj prijatelj." >}}
+You: You are my friend.
+{{< /details >}}
+
+{{< details summary="On: On je star." >}}
+He: He is old.
+{{< /details >}}
+
+{{< details summary="Ona: Ona je lepa." >}}
+She: She is beautiful.
+{{< /details >}}
+
+{{< details summary="Ono: Ono je majhno." >}}
+It: It is small.
+{{< /details >}}
+
+{{< details summary="Midva: Midva sva tukaj." >}}
+We two (masc.): We are here.
+{{< /details >}}
+
+{{< details summary="Vidve: Vidve sta sestri." >}}
+You two (fem.): You are sisters.
+{{< /details >}}
+
+{{< details summary="Oni: Oni so učenci." >}}
+They (masc.): They are students.
+{{< /details >}}
+
+{{< details summary="One: One so zdravnice." >}}
+They (fem.): They are doctors.
+{{< /details >}}
+
 
 ### How to form the Verb in the present
 
@@ -112,11 +160,9 @@ Here follow some example sentences that should help you understand how to apply 
 
 If you want to train the forming of words of the a-conjugation, use the anki deck (**TODO**) that is provided at the end of the lesson or solve the exercises (**TODO**).
 
-
 ## Slovensko in akcija - Slovene in action
 
 ### Na železniški postaji v Ljubljani. -  At the trainstation in Ljubljana
-
 
 {{< details summary="Ana: Živijo! Jaz sem Ana. **Kako ti je ime**?" >}}
 Ana: Hi! I am Ana. What is your name?
@@ -155,8 +201,7 @@ Ana: Nice to meet you.
 Marko: Me too.
 {{< /details >}}
 
-
-#### Frases from the text
+#### Frases from the text - Na železniški postaji v Ljubljani
 
 | Slovene phrase        | English meaning         |
 |------------------------|-------------------------|
@@ -214,7 +259,7 @@ Luka: Yes, I like to travel.
 Sara: Me too.
 {{< /details >}}
 
-#### Frases from the text
+#### Frases from the text - Na plaži pri Kopru.
 
 | Slovene phrase                | English meaning                   |
 |-------------------------------|-----------------------------------|
@@ -224,11 +269,20 @@ Sara: Me too.
 | Rad/Rada …                    | I like to … (m/f)                 |
 | Ali imaš še druge hobije?     | Do you have other hobbies?        |
 
+## Vocabulary
+For every chapter there is an Anki deck for all Vocabulary that we have introduced in this chapter. You can download it here under the following link:
 
-## Test
+- **TODO**
 
-Spoiler Shortcode {{< inline-spoiler >}}Dont look at me :){{< /inline-spoiler >}}
+## Summary
+
+In this chapter we learned important slovene frases and grammatical concepts:
+
+1. How to form basic verbs of the a-conjugation.
+2. What is the singular, plural and in particular what is the dual?
+3. The personal pronouns I, you, he/she/it, us-two, you-two, they-two, us, we, they
+4. And important frases to introduce yourself
+
+If you want to train these skills attempt to complete the exercises in the following chpter: [LINK](slovene_level_1/lesson_2_-_the_present_tense/predstavi_se-introduce_yourself-exercises/)
 
 ## References
-
-- 
