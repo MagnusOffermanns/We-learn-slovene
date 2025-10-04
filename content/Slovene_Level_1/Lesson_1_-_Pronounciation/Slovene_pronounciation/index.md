@@ -15,7 +15,7 @@ Let's start!
 
 Overview: [All Decks - github.com/MagnusOffermanns/We-learn-slovene-Anki-decks](https://github.com/MagnusOffermanns/We-learn-slovene-Anki-decks)
 
-- Pronounciation: [Level 1 - Lesson 2 - Predstavi se! - Exercise 2.apkg](https://github.com/MagnusOffermanns/We-learn-slovene-Anki-decks/raw/refs/heads/main/Anki-Packages/level_1/Lesson_1/How_to_pronounce_slovene_words/Level%201%20-%20Lesson%201%20-%20How%20to%20pronounce%20slovene%20words%20-%20deck%201.apkg)
+- Pronounciation: [Level 1 - Lesson 1 - Pronounciation.apkg](https://github.com/MagnusOffermanns/We-learn-slovene-Anki-decks/raw/refs/heads/main/Anki-Packages/level_1/Lesson_1/How_to_pronounce_slovene_words/Level%201%20-%20Lesson%201%20-%20How%20to%20pronounce%20slovene%20words%20-%20deck%201.apkg)
 
 ## Pronunciation of vowels
 
