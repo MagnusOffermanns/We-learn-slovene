@@ -3,7 +3,12 @@ Title: "Exercises: Predstavi se! Introduce youself"
 weight: 4
 ---
 
-All Cloze exercises can also be found as Anki-Decks under these links:
+All exercises can also be found as Anki-Decks under these links:
+
+Overview: [All Decks - github.com/MagnusOffermanns/We-learn-slovene-Anki-decks](https://github.com/MagnusOffermanns/We-learn-slovene-Anki-decks)
+
+- Exercise 1: 
+- Exercise 2: [Level 1 - Lesson 2 - Predstavi se! - Exercise 2.apkg](https://github.com/MagnusOffermanns/We-learn-slovene-Anki-decks/raw/refs/heads/main/Anki-Packages/level_1/Lesson_2/Level%201%20-%20Lesson%202%20-%20Predstavi%20se!%20-%20Exercise%202.apkg)
 
 ## 🧩 Exercise 1 Personal Pronouns 🧩
 

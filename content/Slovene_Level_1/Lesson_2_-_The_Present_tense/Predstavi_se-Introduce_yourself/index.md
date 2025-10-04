@@ -270,6 +270,7 @@ Sara: Me too.
 | Ali imaš še druge hobije?     | Do you have other hobbies?        |
 
 ## Vocabulary
+
 For every chapter there is an Anki deck for all Vocabulary that we have introduced in this chapter. You can download it here under the following link:
 
 - **TODO**
